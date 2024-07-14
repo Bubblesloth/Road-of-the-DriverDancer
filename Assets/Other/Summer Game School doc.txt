@@ -1,0 +1,45 @@
+Jeu de rythme
+graphismes : pixel art 16bit
+inspirations : Crypt of The Necrodancer / Hotlin miami (pour le style graphique)
+
+Une voiture sur une route qui monte
+appuyer sur espace au bon moment pour esquiver la voiture sur les temps
+
+
+A chaque temps/kick de la musique : les voitures en face avant de une case
+
+Contrôles : on change de ligne de route en allant à gauche ou à droite / Espace pour tirer
+
+Quand on est en face d'une voiture, on appuye 
+
+
+Mood : Années 80 avec les casettes de musique qui se mettent et tout
+
+musique : electro
+
+special feature : 
+
+
+
+FACULTATIF : Pause à des stations essence pour acheter des powerup et des trucs cool
+
+
+
+
+J2
+
+FAIRE UN LEADERBOARD
+
+usp
+variété de pièges
+repos
+
+piege repos piege repos etc..
+
+tuto:
+
+tease learn train master
+
+
+
+à faire : demander pour la taille des routes pour placer les routes
