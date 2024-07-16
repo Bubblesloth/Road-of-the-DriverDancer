@@ -6,6 +6,7 @@ TagManager:
   tags:
   - enemy
   - pos
+  - beatbarre
   layers:
   - Default
   - TransparentFX
