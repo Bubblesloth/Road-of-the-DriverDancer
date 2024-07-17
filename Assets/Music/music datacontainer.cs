@@ -19,6 +19,8 @@ public class Musiclist
     public List<Music> Musics1;
     [SpreadsheetPage("Music2")]
     public List<Music> Musics2;
+    [SpreadsheetPage("Music2EASY")]
+    public List<Music> Musics2EASY;
     [SpreadsheetPage("Music3")]
     public List<Music> Musics3;
 }
