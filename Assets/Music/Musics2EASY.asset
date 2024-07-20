@@ -249,20 +249,6 @@ MonoBehaviour:
       road5: 0
       road6: 0
       activebeats: 0
-    - road1: 0
-      road2: 0
-      road3: 0
-      road4: 0
-      road5: 0
-      road6: 0
-      activebeats: 0
-    - road1: 0
-      road2: 0
-      road3: 0
-      road4: 0
-      road5: 0
-      road6: 0
-      activebeats: 0
     - road1: 1
       road2: 0
       road3: 0
@@ -2388,6 +2374,13 @@ MonoBehaviour:
       road2: 0
       road3: 0
       road4: 1
+      road5: 0
+      road6: 0
+      activebeats: 0
+    - road1: 0
+      road2: 0
+      road3: 0
+      road4: 0
       road5: 0
       road6: 0
       activebeats: 0
